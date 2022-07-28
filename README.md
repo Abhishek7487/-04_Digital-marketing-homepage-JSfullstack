@@ -15,4 +15,4 @@
   - Selecting elements using child selectors e.g `:first-child`, `:nth-child` & `:last-child`.✅
   
 ## Time taken to complete this project:-
-⏰- 1 hr 33 min.
+⏰- 1hrs 33 min.
